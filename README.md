@@ -1,5 +1,5 @@
 # Shared Bikes Multiple Linear Regression Machine Learning Model
-This is part of Linear Regression Model demonstartion on a shared-bikes data, from the skilles gained during the course study
+This is part of Linear Regression Model demonstartion on a shared-bikes data from the skills gained during the course study.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -28,7 +28,7 @@ Build a linear regression machine learning model to predict the demand for share
 
 Equation of the best fitted linear regression predidictive model to predict the shared bikes demand with 12 feature selected from the data set given is,
 
-### $ SharedBikeCount \, = \, 0.5348 + \,0.2461 * yr\, + \,0.0571 * workingday\, - \,0.1926 *  windspeed\, - \, 0.2376 * spring\, - \,0.0385 * summer\,  -  \,0.1232 * january\, +\,0.0563 * september\, - \,0.1122 * november\, - \,0.1183 * december\, + \,0.0664 * monday\, -\,0.0890 * weathersit_2\, - \, 0.3202 * weathersit_3$ 
+### $ SharedBikeCount  = 0.5348 + 0.2461 * yr + 0.0571 * workingday - 0.1926 *  windspeed - 0.2376 * spring - 0.0385 * summer  -  0.1232 * january + 0.0563 * september - 0.1122 * november - 0.1183 * december + 0.0664 * monday - 0.0890 * weathersit_2 -  0.3202 * weathersit_3$ 
 
 NOTE: 
 * weathersit_2 : Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist<br>
